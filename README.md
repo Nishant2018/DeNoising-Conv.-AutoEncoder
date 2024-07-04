@@ -1,4 +1,4 @@
-Sure! Here's an overview of denoising autoencoders:
+```
 
 ### Denoising Autoencoders
 
@@ -37,3 +37,4 @@ A denoising autoencoder (DAE) is a type of artificial neural network designed to
 ### Summary
 
 Denoising autoencoders are powerful neural networks used to remove noise from data by learning robust and meaningful representations. They consist of an encoder that compresses the data and a decoder that reconstructs the original data from the compressed representation. DAEs are trained using noisy data as input and clean data as the target, which enhances their ability to handle noisy real-world data and improves generalization.
+```
